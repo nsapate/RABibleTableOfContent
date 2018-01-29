@@ -1,0 +1,731 @@
+
+
+
+Academic Publishing
+	How to Format a Bibliography.doc
+	How to Handle Academic Publishing.doc
+	How to Integrate Citations.doc
+	How to Name a Saved PDF.doc
+	How to Name Academic Papers.doc
+	How to Take Journal Screenshots.doc
+	How to Use the Research Dashboard.doc
+	Reputable Sources.doc
+
+
+Admin RA
+	Admin RA Hiring Process.doc
+	Amazon Tax Exemption.doc
+	Chief of Staff .doc
+	Chief of Staff Passwords.doc
+	Contacts and Mail Merge.docx
+	google imports.csv
+	How to Create a Doodle Poll.docx
+	How to Create a Google Form.doc
+	How to Create a Survey on Qualtrics.doc
+	How to Do Expenses.doc
+	How to Document Media.doc
+	How to Handle Scheduling.doc
+	How to Import Contacts into Google.doc
+	How to Lock a Document.doc
+	How to Mail Merge.doc
+	How to Manage Google Calendar.doc
+	How to Manage Korok's Website.docx
+	How to Merge PDFs in Adobe Acrobat Pro.doc
+	How to Print Contacts.doc
+	How to Record Phone Calls to Audio Files in Android.doc
+	How to Reserve a Computer Lab.doc
+	How to Run a Report in Digital Measures.doc
+	How to Split an Audio File.doc
+	How to Travel Plan.doc
+	How to Use an AIO Computer-Onsite Checklist.doc
+	How to Use Contacts Manager.doc
+	How to Use CreateSpace.doc
+	How to Use Dropbox (Admin).doc
+	How to Use Google Forms.doc
+	How to Use Job Market (Admin RA).doc
+	How to Use Mailsend.doc
+	How to Use Upwork.doc
+	How to Use Work Logger Web-Admin.doc
+	How to Write Thank You Notes.doc
+	index
+	MIRC Housekeeping.doc
+	Offboarding Process.doc
+	Onboarding Process.doc
+	Printing Documents.doc
+	Separating Compiled Inbox into Individual Files.doc
+	Unlogged_Contacts.xls
+	Uploading a Research Job.doc
+	Uploading and Reviewing Doc Edit and MathType Jobs.doc
+	Upwork Hiring Process (Typists).doc
+	Upwork Hiring Process.doc
+	Website Checklist.doc
+
+
+	*Job Market Admin
+		Job_Classes.doc
+		oDesk_Contacts.xls
+		oDesk_Job_Post.doc
+		oDesk_Services.xls
+		Possible_Research_Tasks.doc
+		Upwork Typist Ad.doc
+
+
+		**Editing Sample
+			Editing Sample 1 Finished.doc
+			Editing Sample 1.doc
+			Editing Sample 2 Finished.doc
+			Editing Sample 2.doc
+
+
+			***Sample 1 Responses
+				Editing Sample 1_C.S.doc
+				Editing Sample 1_D.C.doc
+				Editing Sample 1_D.D.doc
+				Editing Sample 1_D.R..doc
+				Editing Sample 1_G.D.doc
+				Editing Sample 1_K.M.doc
+				Editing Sample 1_M.S.doc
+				Editing Sample 1_P.J.doc
+				Editing Sample 1_U.B.doc
+
+
+			***Sample 2 Responses
+				Editing Sample 2_D.C..doc
+				Editing Sample 2_D.R..doc
+				Editing Sample 2_M.S..doc
+				Editing Sample 2_U.B.doc
+				Scores.xls
+
+
+		**Surveys
+			Language_Survey.doc
+			User_Survey.doc
+			Worker_Services_Survey.doc
+
+
+	*Offshore Team
+		Chief of Staff Passwords.doc
+		Contacts and Mail Merge.docx
+		How to Create a Doodle Poll.docx
+		Offshore_Bible.doc
+
+
+		**Kris
+
+
+			***Approved
+				DIP.doc
+				DIP1.doc
+				Team Contracting.doc
+
+
+			***Posted
+				Kris.mp4
+				MasterBib.doc
+				One Size.doc
+
+
+			***Submitted
+
+
+			***To_Be_Posted
+
+
+		**Rocelyn
+
+
+			***Approved
+				Constraints.doc
+				Constraints_MathType.pdf
+				CSC_2.doc
+				CSC_3.doc
+				CSC_4.doc
+				CSC_5.doc
+				FCP_JMAR_3.doc
+				IZ_4.doc
+				IZ_4.docx
+				IZ_Marks_Edited.doc
+				New_Analysis_Edited.doc
+				New_Analysis_Original.pdf
+				Round_2_Theory.doc
+				Round_2_Theory.PDF
+
+
+			***Posted
+				FCP_JMAR_3.doc
+				FCP_JMAR_3.pdf
+				Round_2_Theory.doc
+				Round_2_Theory.PDF
+
+
+			***Submitted
+				Round_2_Theory.doc
+
+
+			***To_Be_Posted
+
+
+	*VA Manager
+		VA Emails.docx
+
+
+		**VA Recruiting
+			VA Essay.doc
+
+
+Copyeditor RA
+	Aggressive Editing.doc
+	Agressive Editing RA Bible.pdf
+	Compiled Inbox Sample.pdf
+	Copy Editor Lessons Learned.doc
+	CopyEditor RA Bible.doc
+	CopyEditor RA Bible.pdf
+	How to Convert an Interview into a Narrative.docx
+	How to Edit Generic Text.doc
+	How to Edit.doc
+	How to Write Numbers and Numerals.docx
+	index
+	Job Market Comments.doc
+
+
+	*Grammar Rules
+
+
+	*Grammar Rules & Tips
+		Active vs Passive Voice.pdf
+		Capitalization Tips.pdf
+		Comma Tips.pdf
+		Common Errors.pdf
+		Slashes, Dashes, and Hyphens (Punctuation).pdf
+		Subject Verb Agreement.pdf
+		Writing Concisely.pdf
+
+
+Data Scientist RA
+	How to be a Data Scientist .doc
+	How to Use Advanced Excel for Mac.doc
+	How to Use Advanced Excel for PC.doc
+	index
+
+
+Dropbox
+	LibreOffice_4.1.5_MacOS_x86.dmg
+	sheetal analysis.xlsx
+	Star Trek Index.pdf
+
+
+	*.dropbox.cache
+
+
+		**2017-11-08
+			27673275 (deleted a947ef054c7458c5531aa7e974418bc0).pdf
+			4047-Fall 2017 Flags_Edited (deleted 8e2d3f9b45cc267841982aec90880d3b).docx
+			4055-Mailsend (deleted d215bc83ff3fac3919b50c53e72ee538).txt
+			4059-Mailsend (deleted 258462bca4774b87bec9b09e0546f1b2).txt
+			4060-November 1, 2017 (deleted 3825826d1a48b7f9e86d38a3ec4718f7).txt
+			4061-Test Audio File (deleted 3a20eb1358af5da8664f167b1a530adc).txt
+			4062-November 2, 2017 (deleted 9c8668624af815bb7fb0734d54512409).txt
+			4063-November 2, 2017 B (deleted 1f03841bfb8cc1fc832bdc86cc785a2f).txt
+			4064-Compiled Inbox November 6_Edited (deleted 8473b3733b0c52aa430ccbd8811977fb).doc
+			4064-Compiled Inbox November 6_Edited (deleted a7c3af39f9979b7b1464670e070f9782).doc
+			4064-Compiled Inbox November 6_Edited (deleted ae52cc89d831eab1a288f7ff913ca6db).doc
+			4064-Compiled Inbox November 6_Edited - Mathew (deleted b31743e735707cc22653dbdb7ebb772e).pdf
+			4065-MIRC Expenses November 8, 2017 (deleted f11c1d6ded8c55694d42598fc9b827df).txt
+			4066-MIRC Expenses October 17 to November 3 (deleted 21c60dda3519bb0dfe709e78b5f93785).txt
+			4067-How to Prepare Faculty to Meet  (deleted d54866c7be9bcd734150ed839ca7a573).txt
+			4068-FOB Real Estate Additions (deleted 8785395ccc653ea12fc09b225c095a76).txt
+			4069-FOB Real Estate Editions B (deleted 023a0c0fc86d2115f560381dfff40dfe).txt
+			4070-FOB Real Estate Addition C (deleted 365cf8ca928675d51418631463b9d2f8).txt
+			Acharya and Subramanian 2009 (deleted 2ecd02d91f0e988a246d24dbf22b0cb9).pdf
+			Acs and Audretsch 1988 (deleted 4d65f2bd25fcd4850a1177470838b78b).pdf
+			Adner and Levinthal 2001 (deleted 98cde97d175e76b8a50b2f579d6f8ece).pdf
+			Aghion and Howitt 1990WP (deleted af860a003753eb9d0c8dc6751378ab08).pdf
+			Aghion and Jaravel 2015 The Economic Journal (deleted cd4f3032e02619decf2f11aa61f49d61).pdf
+			Aghion and Tirole 1994 (deleted 071d7051a5ae2eccee7c9a452a142c8b).pdf
+			Aghion et al 2008 (deleted 70b121fa986b541ee43046aee0210ddc).pdf
+			Aghion et al. 1997 (deleted a5697b207904a8b6ae3008418a6b8a49).pdf
+			Aghion et al. 1999 (deleted 4c7deefc95b810c2cb630e0de5c3604b).pdf
+			Aghion et al. 2005 (deleted 892b3e86579b304379b9a7b651581b3a).pdf
+			Aghion et al. 2013 AER (deleted 5b54001617a0ee82204158100e427fd6).pdf
+			Aghion, Harris, Howitt and Vickers 2001 (deleted af4da4d384dff8f7d22ee50505442845).pdf
+			Aghion, Howitt and Prantl WP2014 (deleted 9e17c27ab04b99eb4f54eef23f09698d).pdf
+			API (deleted 095e26422f20753571fe937026e036e0).one
+			API (deleted 10dd3137251f3fe12be5d7d2cca91f9c).one
+			API (deleted 1b7376aa6612d6a86498fdbfd90b7b98).one
+			API (deleted 2368c23d65ba7a7c56bac4786d0528ba).one
+			API (deleted 2a03dc1f2137ae1defbd63d028e752a4).one
+			API (deleted 2a1f22407b5842897d4833d6b97495ac).one
+			API (deleted 2e522b0709705d5417a7db7b677dc59e).one
+			API (deleted 35810952fc2da26b607bc40a74885e4c).one
+			API (deleted 3dbd2e77156b7fb7ec1940e458786369).one
+			API (deleted 42d623c507857f2b2a0456d9a97b27e5).one
+			API (deleted 440ab1ac1066e284605157b882221983).one
+			API (deleted 4d4bd58fb7d6aeb2a8684a5e07beeb55).one
+			API (deleted 4f6aaecfb1cc14040ece68554c3703dd).one
+			API (deleted 55083992a1c278afd1e78c772803086f).one
+			API (deleted 708666ad7438c07b1997bbc28ffc8a21).one
+			API (deleted 8b01b69651c99654927b5d0fdb33f7b2).one
+			API (deleted 98cdc3a67bade0b527a7d712a846db5b).one
+			API (deleted a0b364a1598db100b320fcaf7b0780bf).one
+			API (deleted b1137f48d69dfe3b011ea5f44783a1ec).one
+			API (deleted b27869a7c8625523cd7a12a8bc265a52).one
+			API (deleted b92348b21604ae174bc90705fe4bce01).one
+			API (deleted bd4518c55d9d26263b6c7854a52c270b).one
+			API (deleted bfd2552becdd6c5d155190eadda0748f).pdf
+			API (deleted c1a65dc294987e71c1ff76a95856e540).one
+			API (deleted d34aba92a16c53a5a19175d0444fd164).one
+			API (deleted d8e3599c396a6064d13dd3dd9aea8cda).one
+			API (deleted dd0092cae8a39e238ab220e92222e386).one
+			API (deleted e693b9a874eacb3b3b75c89555198675).one
+			API (deleted e86e7df0c892b28e2717f18b47485941).one
+			API (deleted f70fc6ed3f1107aa15c7f5b99b5597cb).one
+			Baranchuk, Kieschnick, and Moussawi 2013 (deleted dcb272a3e7d7f5b93d9ef8b285f174fc).pdf
+			Bellstam, Bhagat and Cookson (WP2017 Text-Based Innovation Measu (deleted 2ea3a3ac894c62130b0319e5dac920a3).pdf
+			BILLS-113hr2070ih (deleted 5d54cbc9f9950475115e2cddb2cb3ae0).pdf
+			Bloomthat (deleted f601901ca38d2f63a04d8b9ef2937381).docx
+			BlueCrew (deleted 950f1f485465e589f426e9d7e5a98ca1).docx
+			Blundell, Griffith, and Van Reenen (1999) (deleted 04935ec166fb46fa2cef6c24eefe89b5).pdf
+			boosting innovation in Europe (deleted de05c64f2e47b5f590be58ac2b279cfd).pdf
+			Breschi, Malerba and Orsenigo 2000 (deleted c7ee79a055c75ad6f6b291a2f444dc6c).pdf
+			Cassiman and Veugeler 2006 (deleted 85693e8f4ed409654fb07c0f1b43d3d2).pdf
+			Chang, Fu, Low and Zhang 2015 (deleted d1ede51ddb3f9a9bb991f476be6fcd01).pdf
+			Cohen - Fifty Years of Empirical Studies of Innovative Activity  (deleted 799e1f35da1cba1a766a60e39c1e4496).pdf
+			Cohen and Levinthal 1989 (deleted 60ef7000598df5b12ed24d6de51a47a6).pdf
+			Cohen, Nelson and Walsh 2002 (deleted 094017a036b4496dc58f8c1c15d46985).pdf
+			Cole v. Chevron USA, Inc., 554 F. Supp. 2d 655 - Dist (deleted fdd50d626622c9f5f1b3090b2d13d45c).pdf
+			Company Labor Market Place (deleted 37c9f96d098f196ac446fbd53cb31044).docx
+			Company Labor Market Place (deleted 4f80f6f32be2da4a0fefa067a48f5c26).pdf
+			Company Labor Market Place (deleted a4d0d15debb309fdd5593f0b08bc015b).docx
+			Company Research Template (deleted 174af186b49f8c114521f4785bc496aa).docx
+			Compiled Inbox November 7 (deleted 08bdee73c72f74e82575928583f8d1f9).doc
+			Compiled Inbox November 7 (deleted 51077555eeadae74b0e86d862e9a2672).pdf
+			Compiled Inbox November 7 (deleted 65fb284b255070b4c449b826a7b69336).doc
+			Compiled Inbox November 7 (deleted 6cee548b06d8af7b32f8e0a62dff312d).doc
+			Compiled Inbox November 7 (deleted be3544885d8426323691a65f67285293).doc
+			Compiled Inbox November 7 (deleted c798fef8421a45d52107448d23c3c54a).doc
+			Compiled Inbox November 7 (deleted e9c8e4a16f9c27627f8fadea0c78b872).pdf
+			Compiled Inbox November 7 (deleted f0c6766ae095049015521fc5f421b088).pdf
+			Compiled Inbox November 7 (deleted f3bc5fba753f166f10f49fdd51697f4f).doc
+			Compiled Inbox November 7 (deleted f96f59ce2a9500353533b5f5768aacb1).doc
+			Compiled Inbox November 7 (deleted fe8a9df3ec73e741a6d56dd3f5ec588a).doc
+			Compiled Inbox Post Review (R) (deleted 45a03978f11d33c3a106e6526291c850).xlsx
+			Consumer Protection - Price Gouging (deleted b0a2988697148b2189acdc108e06d215).pdf
+			Contacts (deleted ea2f021ee0e040e9fb2dc9b63e53f552).xlsx
+			Contacts_Brief (deleted 937a334342becc6ab6e292ec7aaf6510).doc
+			Contacts_Brief (deleted 9b777dedfefc69796b090b2f1cfd66e1).doc
+			Cooper, Knott and Yang (WP 2017 Innovation Measurement) (deleted 5bed1dff0c49bab51949f9673d652ac6).pdf
+			Derivative_Profit_Z (deleted 01e46de8c292493c7ae7d34dba7ca2b7).mlx
+			Derivative_Profit_Z (deleted 08bbeaeaa67d4f2a3d3114611c69eb65).mlx
+			Derivative_Profit_Z (deleted 0999bb2469cc2b226a6e36fce543d87c).mlx
+			Derivative_Profit_Z (deleted 1573d7f51c73fdc01d7f0fb760fb302e).mlx
+			Derivative_Profit_Z (deleted 1651e178b921dda49c31a1cabc2cc137).mlx
+			Derivative_Profit_Z (deleted 177966acac0d6042b37c120bb5fd113a).mlx
+			Derivative_Profit_Z (deleted 17a109053da0f3f142cfe19d6a95d828).mlx
+			Derivative_Profit_Z (deleted 1bc34c61d425393de4ff07231586ac54).mlx
+			Derivative_Profit_Z (deleted 1e80506a83e111c6b4639cf3e7e461d2).mlx
+			Derivative_Profit_Z (deleted 207a099ea3ae10fa62cf8fadfb3b1a57).mlx
+			Derivative_Profit_Z (deleted 20b2a9c22190fc8e279ccfc4003d5246).mlx
+			Derivative_Profit_Z (deleted 2179b5b89fe3990b9e677bb74bec3c92).mlx
+			Derivative_Profit_Z (deleted 22940db00842cfa5262d266a6fb1c0d7).mlx
+			Derivative_Profit_Z (deleted 25c1a6da9023bc41d031a555c0c4629f).mlx
+			Derivative_Profit_Z (deleted 26d97fb1d30f233955f386bcdbd954c4).mlx
+			Derivative_Profit_Z (deleted 2d1c21bac5d12d62e5849ae4c7af53ed).mlx
+			Derivative_Profit_Z (deleted 2f7cc0fd34bf60a16269f04df47bb92d).mlx
+			Derivative_Profit_Z (deleted 32759e3c433bc73052370cf72d134c2c).mlx
+			Derivative_Profit_Z (deleted 335472351372d585295999a10b12c7fa).mlx
+			Derivative_Profit_Z (deleted 33844ac22bc471049e0d94572b2995ac).mlx
+			Derivative_Profit_Z (deleted 41f43f97df932e039e1a628e87499fc4).mlx
+			Derivative_Profit_Z (deleted 467caf27db08b98216ebbfaf29472952).mlx
+			Derivative_Profit_Z (deleted 4bb077e233b1319587b7bceb4ef36f42).mlx
+			Derivative_Profit_Z (deleted 55c4ac190c1ed0bc321f6d4d3d30281f).mlx
+			Derivative_Profit_Z (deleted 5f8cf535bfecdd66221637245c3d6f3e).mlx
+			Derivative_Profit_Z (deleted 673ddbb851eb24e5305043dd9bb41d79).mlx
+			Derivative_Profit_Z (deleted 676802590cd8ed3dc6e2a8df0ccc7ec3).mlx
+			Derivative_Profit_Z (deleted 6b6416909ff5df9abc708825811988ca).mlx
+			Derivative_Profit_Z (deleted 6c296e70650fb7d1db4056e7a02b34f0).mlx
+			Derivative_Profit_Z (deleted 702672ce280b143e34f8d44d57ed0af8).mlx
+			Derivative_Profit_Z (deleted 7c0d8184bf35c196c148f94e7ab31163).mlx
+			Derivative_Profit_Z (deleted 88774adb8a808b2275d35c55a9a1912d).mlx
+			Derivative_Profit_Z (deleted 8892a06c5935d9df5f7f8a6836ad9838).mlx
+			Derivative_Profit_Z (deleted 8a80c699ebffebcec240c328e09f3b75).mlx
+			Derivative_Profit_Z (deleted 8f0f8e8a0b25330a8a1c7e33ea7f21f9).mlx
+			Derivative_Profit_Z (deleted 90298ac4e7b95cda561a19da8c8ce704).mlx
+			Derivative_Profit_Z (deleted 90eec8ab3c2cc9e4744dfc31d957364a).mlx
+			Derivative_Profit_Z (deleted 91067c387a76fe4657220c246bd06fc2).mlx
+			Derivative_Profit_Z (deleted 93a3fc3ba4e27e3da5b8894596d14a88).mlx
+			Derivative_Profit_Z (deleted 9572ad0b978de9b2d1e6bab242dde5f9).mlx
+			Derivative_Profit_Z (deleted 997bcda2dd35ee4ea138b687fb2e1a21).mlx
+			Derivative_Profit_Z (deleted 9d4a84fe81a5995e8c1ddaeb361b9904).mlx
+			Derivative_Profit_Z (deleted a2792157fecb2c359aad4586624ce206).mlx
+			Derivative_Profit_Z (deleted a7213631e7f44086ed14544bd68ecbc5).mlx
+			Derivative_Profit_Z (deleted a82d2e188a29807b9bc46764be939a71).mlx
+			Derivative_Profit_Z (deleted ac2cf5bba248a6dce6c447979cbf0e34).mlx
+			Derivative_Profit_Z (deleted ad5ee3b9a8c1686fac7d8c159042ce99).mlx
+			Derivative_Profit_Z (deleted ae52732b1286e84a766baf42180b13a6).mlx
+			Derivative_Profit_Z (deleted b3b992ccd93ef502e528d81ad6dc681d).mlx
+			Derivative_Profit_Z (deleted b3ee0a9d044664fda6526e72ce71410e).mlx
+			Derivative_Profit_Z (deleted b85fd855831b60c87e01b67d11668af4).mlx
+			Derivative_Profit_Z (deleted ba616f9a6583b81829ae51be10fcd85a).mlx
+			Derivative_Profit_Z (deleted ba9cb781362564b5a2f369c754345f41).mlx
+			Derivative_Profit_Z (deleted bba536800f1cbe12bb5436c6dc174315).mlx
+			Derivative_Profit_Z (deleted c2dd4d6f2e06c62dab00e1af250d3753).mlx
+			Derivative_Profit_Z (deleted c49cd2ae8ca24706d82baf61b27d234c).mlx
+			Derivative_Profit_Z (deleted c756c0b73594425d2eaeecfcb32c544b).mlx
+			Derivative_Profit_Z (deleted c76d7d90f6a7a13790be9aac16d3d1b9).mlx
+			Derivative_Profit_Z (deleted cacfcffeab7add0dbfddfec4db9529d4).mlx
+			Derivative_Profit_Z (deleted d31f8a3105904b34e06794561ea80d55).mlx
+			Derivative_Profit_Z (deleted e0807e3f8c22cac4020c7af04b7dcceb).mlx
+			Derivative_Profit_Z (deleted e3eee5b8f86495bf91d10a62b0b79484).mlx
+			Derivative_Profit_Z (deleted e7a043bac1bcdb5f01e484e01b77b6e7).mlx
+			Derivative_Profit_Z (deleted edfd351aa496015218c40ac1e7830b02).mlx
+			Derivative_Profit_Z (deleted f0f86ba2effbbc299a9f223bb2272ea4).mlx
+			Derivative_Profit_Z (deleted f99e93bf458ba9cbe1e40092867763ee).mlx
+			Derivative_Profit_Z (deleted fd1eeabb82f461e8f35bca2c2eca8059).mlx
+			DisasterProcPriceGouging_09012017 (deleted 5b2ef76814b750db3a7567e37ea3b354).pdf
+			Document Template - Copy (deleted 8def656ce63792bada79f47176c628d9).docx
+			Document Template - Copy (deleted b0971daa61f3d1623c1c9e27cb485a48).docx
+			dZ_over_db (deleted efeb1927dc0d382736e97b43bd637467).jpg
+			Ederer and Manso (2013) (deleted fcaa57d65bb9f6433a7456bc1b85316e).pdf
+			Ethiraj and Levinthal 2004 (deleted 2df7cf1c443a4b49219aaa3b7bf3d3de).pdf
+			Fact Sheet Quiz (deleted 0f3dfbacedf9bcbbc05b967b924df216).doc
+			Fact Sheet Quiz Will (deleted fdd2510047cd9a54cd0296a02abfe262).doc
+			Fall 2017 Flags (2) (deleted 4967ab304b84b3f99660520840ece9ab).docx
+			Fall 2017 Flags (deleted 262d0c356822267acb0d2f9b75453ef8).docx
+			Fancy Hands (deleted d92bc2e5293cd6e5316ebfd84835b20f).docx
+			Fernando Gonzalez Lecture Invitation (deleted 3ecc759b34186826d0cb1c26d0e78c12).csv
+			Ferreira et al. 2012 (deleted afe06dd9fb1d3f4333edc5e6c0bf2d0c).pdf
+			Finance Conferences (deleted 7292374e9a2f21e3e77ee0c73d978c3d).docx
+			Financing Innovation (Sabrina Howell, 2017 AER) (deleted a8b41ac9c0ee8f5603c0a169738903f9).pdf
+			Flags -Elvy (deleted 410aa4b27f11f9ae8efbe3589801adcb).docx
+			Gans et al 2000 (deleted 324fc5107bcd0fecdd84f62777e377cf).pdf
+			GoogleService-Info (deleted b554eb8d5e712bef7a476b80c910116d).plist
+			Governor Rick Scott Signs Legislation to Protect Patients from P (deleted d65f89451d9650c0103c7b48fff94ba4).pdf
+			Halac, Kartik and Liu (2016) (deleted ba3a8ae71a042908da7a0be56376f314).pdf
+			Hall, Jaffe and Trajtenberg 2001 WP discussion on patent citatio (deleted 644237ac9fc6cf899f672bc2e13abf79).pdf
+			Hall, Mairesse and Mohnen 2010 (Review paper on econometric lite (deleted 2453c9a72d58b24f0a01775430fec9e0).pdf
+			Handy (deleted 3c641c613a6aa54305fae6394cbe0295).docx
+			Hart 1983 (deleted 0511888705099557f538cdd9962955d6).pdf
+			Hello Alfred (deleted 1273c4163c8b84e9645bb103e356c9d0).docx
+			Horner and Samuelson 2013 (deleted 1235e97338233b3f56f7c2601917b6a0).pdf
+			How Google Works (deleted 2dd73005ed64c954a766bec2ba72c620).pdf
+			How to Use Job Market App (Manager) (deleted 3335b3e0c8dcc9bbc8dde241826b3561).docx
+			How to Use Job Market App (Manager) (deleted 8c84707bcd1b5669ebde4d757313250d).docx
+			Hsu, Tian and Xu 2013 (deleted 7657e5a149cee21a4ba4c4d1324c8348).pdf
+			Innovation at TAMU (deleted 34c48bdcf75e372310e0bf9207bc46fa).docx
+			Innovation At TAMU Slides (deleted e2199bb40161caf9c0f4b3c10e3e1d30).pdf
+			Innovation at TAMU Writeups (deleted 1461d2fd7b12900f766f79c32e03b6cc).docx
+			Innovation at TAMU Writeups (deleted ed9da0a9b630fbaf016bfcb70ea5ec0a).pdf
+			InnovationAtTAMU (deleted 2c1bb502a3795eb6957e13abfc58b1c1).docx
+			Jaravel 2017 (R&R Quarterly Journal of Economics) (deleted 963206e7dc367729dd5560d4618ff673).pdf
+			Jaravel, Petkova and Bell (2017 Forthcoming, American Economic R (deleted c62892760153078f662b335997bc8987).pdf
+			Korok Turns 40 (deleted 4c36ea0f835245d0d93896b6f7e19dd2).csv
+			Kortum and Lerner 2000 (deleted d3f15109d8f417a502383b6a224ccee6).pdf
+			Kremer, Mansour and Perry 2014 (deleted ad64bb7617194bf6a8a7cb8bb5c7f1ba).pdf
+			Life Lessons (deleted ae0d42c23cf2e745a7ec33992c7704e2).pptx
+			Life Lessons - Copy (deleted 2d3da4a48307f5d5e66ab037cccff86f).pptx
+			Mailsend_All (deleted 7db46f28b8452aef4487a0c584e822ca).doc
+			Management Conferences (deleted 5afd20012fcd3f8ed6de4d22582929bc).docx
+			MANSO-2011-The_Journal_of_Finance (deleted 5247955ad0b9afbcc72f713c5d575a51).pdf
+			Mantovani and Ruiz-Aliseda (2016) (deleted c3eb25363ab4d2ebb6297d3d8709fb8d).pdf
+			MIRC Email List (deleted 23ad7e241276fd9fcd7b7460cc434729).xls
+			MIRC Email List (deleted 2829e1e957f6871793a5a94c249e887c).xls
+			MIRC Email List (deleted 4b8251527484ebbf69ea641a5de14671).xls
+			MIRC Email List (deleted 77fe0a55195952961f5f865a8734159a).xls
+			MIRC Email List (deleted c3a8c261a83d928a5f0afb1449601268).xls
+			MIRC Email List (deleted fe14b05b49256f379534e7fb99efa657).xls
+			MIRC Faculty Recruiting_Computer Science_EC(2) (deleted 36d82f10ba187b676a8480e388eb666f).xlsx
+			MIRC Faculty Recruiting_Computer Science_EC(2) (deleted 401a8e777f95a1f038530097f95f5162).xlsx
+			MIRC Faculty Recruiting_Computer Science_EC(2) (deleted e7a7c1bd8e5f947a40367258f9db84c5).xlsx
+			MIRC Faculty Recruiting_Computer Science_HComp (deleted 32f437257ad7dd8130170da1f96ee081).xlsx
+			MIRC Faculty Recruiting_Computer Science_HComp (deleted 374d482ab61d6431548ef4dfb211e18b).xlsx
+			MIRC Faculty Recruiting_Computer Science_HComp (deleted 99bcdde57adcb7ff58abc9eaa515960b).xlsx
+			MIRC Faculty Recruiting_Computer Science_HComp (deleted 9d538df93e176c597cea5c4e8a3110d8).xlsx
+			MIRC Faculty Recruiting_Computer Science_HComp (deleted da5feb39ab9b696097047d6afc23ad0f).xlsx
+			MIRC Faculty Recruiting_Computer Science_HComp (deleted f49a1f5ebdf2f19a98d0add842e2fa79).xlsx
+			Myflags_William (deleted 0349bd8d674158f5b618d9a564d1fc5b).docx
+			NAAGPriceGouging (deleted 5338172a0226ce5ffb41f70bb904219d).pdf
+			Nanda and Rhodes-Kropf 2017 (deleted c0367e6693a984e32222775f037ccc9e).pdf
+			New Section 1 (deleted 01474e852129e57aeb7e4c5c448c63f6).one
+			New Section 1 (deleted 0195aa79ca033516dfe2e3eee34d95a7).one
+			New Section 1 (deleted 0c2965d64da48dd4577d5960cb9c98da).one
+			New Section 1 (deleted 0f25752da85120fdcaa6c260b1ae636d).one
+			New Section 1 (deleted 11b505b516874d7dce7eb86c6dbc6677).one
+			New Section 1 (deleted 1821b82d8bb6f982c048b8c7aedcfd11).one
+			New Section 1 (deleted 1e19c6d3816b60cff5f139ed2cb9ca99).one
+			New Section 1 (deleted 20705f245e452777cce70c646e8b4023).one
+			New Section 1 (deleted 20b58cabe24fb7d4c40115b558a07442).one
+			New Section 1 (deleted 2513288bf4e4927ff105c0f974133efa).one
+			New Section 1 (deleted 25af6e0d0d4053737fb0e1659257402f).one
+			New Section 1 (deleted 3647a76c759907ac267f733e0a0252e6).one
+			New Section 1 (deleted 3b94f50e1aa2e5396578165204384782).one
+			New Section 1 (deleted 3e2e151b15e7fbc6daf054134556b50a).one
+			New Section 1 (deleted 3e3e7b82b6a8e7df73bfc4a2bd39463b).one
+			New Section 1 (deleted 420ae0c2aa635b46835864d38a8aa3d5).one
+			New Section 1 (deleted 44cfe7ccc4e8894940484aaf6c1483ed).one
+			New Section 1 (deleted 46b12122fdbcfa2b56f4e96237d6f404).one
+			New Section 1 (deleted 513e5b8a10dd5bb25937040f38dd61f5).one
+			New Section 1 (deleted 59d47bab221ac163ece404483363d9c0).one
+			New Section 1 (deleted 60f3596e61408c49a6828a49f1b5d0ef).one
+			New Section 1 (deleted 62cd23218c67f47203ee53e5743b91c1).one
+			New Section 1 (deleted 647cb55cc849d3fe26ecd2ce83688fb2).one
+			New Section 1 (deleted 6edf0042a05d13c4dad637601ffe8349).one
+			New Section 1 (deleted 741de362f2c379ec22cc5d1a41c31692).one
+			New Section 1 (deleted 75ec508c5a140e5484f144e18a258dbd).one
+			New Section 1 (deleted 783899377a462a2d933191c72e24c5ed).one
+			New Section 1 (deleted 7f6c7e4c0b8c6e8d19a5de041267492f).one
+			New Section 1 (deleted 81fff5f5a6efa4e65a0fe4dbc21fdd77).one
+			New Section 1 (deleted 85af61c970f2746aa0fee16edfe6b4d5).one
+			New Section 1 (deleted 8f74405d4e77c5b590c3d68a4c0acd09).one
+			New Section 1 (deleted 912cfb61747ddb38f7de03a9774982fa).one
+			New Section 1 (deleted 97cb0b274ba137a8efbfb7ce27e662c4).one
+			New Section 1 (deleted 9f358d1c238d631a6c2472fe03a03ae8).one
+			New Section 1 (deleted a4f1c84819c833e048d2c095a3e0926b).one
+			New Section 1 (deleted ad222fd10d0ac73165ed83ccb643ba34).one
+			New Section 1 (deleted b191df262f7f0caa3e28c5ef1ba17774).one
+			New Section 1 (deleted c076215309d193ac9f5c668c348cac34).one
+			New Section 1 (deleted c6a67212c54ec2cc078ea55bb0fd8dfe).one
+			New Section 1 (deleted ca5c61c61b2da160ead1a46aafd9fd7e).one
+			New Section 1 (deleted d7adc3bf65f6b38903ea699315f6e536).one
+			New Section 1 (deleted df83e94412c0fe19baaadc1a98c8b568).one
+			New Section 1 (deleted e0ccb79bf52ee283d1748c9cefebf893).one
+			New Section 1 (deleted e86474347e43e974dd03135604e00b71).one
+			New Section 1 (deleted ea9949bfbc711978304113078b8955c7).one
+			New Section 1 (deleted efbf551b82e862068d6539f8ac92555b).one
+			New Section 1 (deleted f405ee30092a1f19091071b133a42230).one
+			New Section 1 (deleted f9161742c3dd6af94a0f4c4f6f0e34c1).one
+			New Section 1 (deleted fadf7353dc75509c1d7f3f6f2af48ed3).one
+			New Section 1 (deleted fbcb71db374e2e92331bc99e572c74cb).one
+			New Section 1 (deleted fea4a33a3e2117f8dd4cf9df7d1598f5).one
+			New York Consolidated Laws, General Business Law - GBS § 396-r _ (deleted 49af733e3da1c7cbc6051a2fd171a609).pdf
+			NYU Faculty Meet (deleted 486fdacafc76e890fb08be02fabab40e).docx
+			NYUFacultyMeet  (deleted 1c9fda6a6948751696db542b86f8fca5).docx
+			Outsourcing Slide Deck (deleted c82ca12e5d4d76352a3a415cad9b1b22).doc
+			Policy Speakers (deleted f75e0bea3645d75529630c7185d4d912).docx
+			Price Gouging Laws by State - FindLaw (deleted 8ecf846cd969065937d5510772320bd6).pdf
+			Price_Gouging_Overview (deleted b2fd55559e5882730ae10c1b8ee4c2a0).docx
+			Productivity Tracker (deleted 86c734618d7fe1816a97f64d590792e8).xlsx
+			Project Dashboard (deleted 02e3b7c6d951b643e5dabbe4f7105391).xlsx
+			Project Dashboard (deleted 0c3540821a99135f7d1dc2dc3365a6a1).xlsx
+			Project Dashboard (deleted 278a7e12921c436d0d7629e6283b73b3).xlsx
+			Project Dashboard (deleted 2dd945610ef4aa6d5d6f378e4ee173d3).xlsx
+			Project Dashboard (deleted 7d4f7a0fcea1ada2030ac39506f830e3).xlsx
+			Project Dashboard (deleted 8c4e1ae493977cd011fffa56dae00997).xlsx
+			Project Dashboard (deleted 9c6090c08dc2a7af6109f832fd3c4d45).xlsx
+			Project Dashboard (deleted b6fd9502625f43796067af26fbf86dc6).xlsx
+			Project Dashboard (deleted c39de06942c0d7337d36db31791ed7e0).xlsx
+			Project Dashboard (deleted c68332c00407fb6758b856473e8f560a).xlsx
+			Project Dashboard (deleted d96a36577b8a1566241bf2372d15ef67).xlsx
+			Project Dashboard (deleted fbafb03f3664aa85948899606174c854).xlsx
+			Radar, Camera, Lidar and V2x of Autonomous Vehicle  - Copy (deleted 6d5e91fbf28e382afdeb26782e78a7f9).pdf
+			Rayo and Sapra WP (deleted 97f7aa1f3f89ea05221ec34c7f3ea861).pdf
+			Rework_America_Task_Force_details (deleted 72a815a9758083a0f4b9de96efcb9a5b).docx
+			Rework_America_Task_Force_details (deleted bc0178196975cf0c9a675322e77017c5).docx
+			Rework_America_Task_Force_details (deleted cda56b48f8ec581f93fe1680d2b73a3d).docx
+			Rework_America_Task_Force_details (deleted f2096d38d0cf3e4327d7f115174b6c70).docx
+			Rocket Lawyer (deleted efc1d91bd7f1eaccabd7965819f62e6c).docx
+			Rocket Lawyer (deleted ffc33248fbc3507f7e6bb117cec4d64a).docx
+			Rothaermel et al. 2004 (deleted 75c03e75de68627ff7071774bcfd5c2c).pdf
+			Samila and Sorenson 2011 (deleted 907b6f03de3677915b1dcc27ab4fafec).pdf
+			Sapra et al. 2014 (deleted ebffb482918fe77be3715075c39d98cb).pdf
+			Sauermann and Cohen 2010 (deleted 84a315f2faa24a4a7dc6176613923f39).pdf
+			Schmidt  1997 (deleted 7c911b97516fb0bcf2d9d789979da4fe).pdf
+			Seru 2007 (deleted 95a3f207fab299bf4f4c57b3f57acd9a).pdf
+			Simanis and Hart 2009 (deleted 1eb2a6fb7756b0f62fe04d1fd76e2020).pdf
+			SMU Faculty Meet (deleted 438fffa0d1b2f6005e54b4b35f0abe28).docx
+			Staff Tuition Assitance (deleted 8dbcd67308d5b906331cee73b0716016).docx
+			Staff Tuition Assitance (deleted ba2459a8157bc2fe6658135c6ef34959).docx
+			Statutes & Constitution _View Statutes _ Online Sunshine (deleted 003082ddf4c5c1b5b07f96e2f25e4970).pdf
+			Strategic Plans (deleted 09bae042bec9e681b8ac9f91901c7589).doc
+			Strategic Plans (deleted a6892148e2ddeac053fae54d08c734da).doc
+			Strategic Plans (deleted f8fc8b717870e55ad3d829928c8a45d7).doc
+			stuffffffffffffffffffffffffffffffffffff (deleted 9522c59e3fefdb75f3c5b6378d447c56).docx
+			Task Rabbit (deleted c4ad4630a1ff4d085d2a0b7ed263cfab).docx
+			Tesla Self-Driving Car  - Copy (deleted 35eb7a14d9bde6d46fe1800c8dab3e30).pdf
+			The timing of innovation Research, development, and diffusion (R (deleted 15f000be430c3cb225ca44addf3d33b4).pdf
+			The use and misuse of patent data (Lerner and Seru WP2015) (deleted d8405d98665a1831923969834a64e874).pdf
+			Three Sensors That Drive Aotonomous Vehicle - Copy (deleted 2aac60161e40db1cfe698df23298d835).pdf
+
+
+Essentials
+	Bonus Policy.doc
+	Essential RA Bible_Compiled.doc
+	Essential RA Bible_Compiled.pdf
+	Flags Policy.doc
+	How to Be Proactive.doc
+	How to Use Dropbox.doc
+	How to Use Print Office.doc
+	How to Use Slack.docx
+	How to Use TAMU SSO.doc
+	How to Use WLW.doc
+	How to use Workday.pdf
+	index
+	Introduction.doc
+	MIRC Culture.doc
+	RA Checklist.doc
+	Strikes Policy.doc
+
+
+	*How to Format
+		How to Format a Bibliography (General RA).doc
+		How to Format a Document (General RA).doc
+		How to Format a Spreadsheet (General RA).doc
+
+
+General RA
+	How to Complete a Q&A.doc
+	How to Complete a University Fact Sheet.docx
+	How to Conduct Biographical Research.doc
+	How to Conduct Company Research.doc
+	How To Conduct Topical Research.doc
+	How to Evaluate Source Credibility.doc
+	How to Extract and Combine PDF Pages.doc
+	How to Extract Excel Data.doc
+	How to Fact Check.doc
+	How to Format a Bibliography (General RA).doc
+	How to Format a Document (General RA) (William Mattinson's conflicted copy 2018-01-24).doc
+	How to Format a Document (General RA).doc
+	How to Format a Spreadsheet (General RA).doc
+	How to Gather Information from WIkipedia.doc
+	How to Integrate Citations.doc
+	How to Make Charts.doc
+	How to Prepare for a Workshop.doc
+	How to Tag Research.docx
+	How to Use Yahoo Finance.docx
+	index
+	Submission Checklist.docx
+
+
+	*Chart Samples
+		100 Stacked Area.png
+		Chart Samples Compiled.docx
+		Clustered Column.png
+		Clustered Graph with Line.png
+		Line 1.png
+		Line 2.png
+		Line with Markers.png
+		Pie.png
+		Stacked Area.png
+		Stacked Column 1.png
+		Stacked Column 2.png
+
+
+	*Topical Research Samples
+
+
+		**Net Neutrality
+			Net Neutrality Overview.doc
+
+
+			***Source Files
+				Ammori 2010.pdf
+				Berghel 2016.pdf
+				Calamur 2016.pdf
+				Crovitz 2016.pdf
+				FCC 2015.pdf
+				Federal Register 2015.pdf
+				Gilroy 2009.pdf
+				Glickhouse and Zissis 2014.pdf
+				Greenstein et al 2016.pdf
+				Hahn and Wallsten 2006.pdf
+				Hart 2011.pdf
+				Ingram 2012.pdf
+				ITU-T 2004.pdf
+				Kumar 2008.pdf
+				Mai-Duc and Puzzanghera 2015.pdf
+				McKinnon 2016.pdf
+				Meyer 2014.pdf
+				Skorup 2016.pdf
+				Verizon v. FCC 2014.pdf
+				Wu 2003.pdf
+
+
+		**Team Incentives
+			Team Incentives Overview.doc
+
+
+			***Source Files
+				Corporate Law Profit.pdf
+				Evaluating the Technical Efficiency of Large US Law Firms.pdf
+				GAO.pdf
+				Inside Public Accounting.pdf
+				Overview of Fiduciary Duties 2015.pdf
+				Partnerships- IRS.pdf
+				Peer Pressure and Partnerships.pdf
+				Profit Sharing in Australian Big 6 Accounting Firms.pdf
+				Sample Partnership Agreement.pdf
+				Uniform Partnership Act.pdf
+
+
+		**Whistleblowing
+			Whisteblowing Overview.doc
+
+
+			***Source Files
+				Brennan and Kelly 2007.pdf
+				Call et al 2016.pdf
+				Guthrie and Taylor 2015.pdf
+				Henik 2015.pdf
+				Joireman et al 2010.pdf
+				Kaptein 2009.pdf
+				Lowe and Reckers-Sauciuc 2010.pdf
+				Makowsky and Wang 2015.pdf
+
+
+LaTex RA
+	Latex Typesetting Bible.doc
+
+
+Manager RA
+	How to Implement Changing Workflow.doc
+	How to Use Job Market App (Manager).docx
+	How to Use WLW App (Manager).docx
+	index
+
+
+	*General RA Manager
+		General RA Manager Overview.doc
+		How to Use Project Dashboard.docx
+		Project Dashboard Template.xlsx
+
+
+Other
+	Compiled Inbox Sample.pdf
+	How to Format a Document (Copyediting RA).doc
+	How to Log Prepaid Hours.doc
+	How to Track Your Skill Set.doc
+	How to Use BibTex in Word.docx
+	How to Use Life360.doc
+	Jacob Instructions.doc
+	Job Offer Email.doc
+	Latex Checklist.doc
+	LaTeX Job Market.doc
+	LaTeX Primer.pdf
+
+
+	*How to Perform a Lit Review
+		How to Perform a Lit Review.docx
+		How to Perform a Lit Review.pdf
+
+
+		**Tax Aggression
+			Tax Aggression Lit Review.doc
+
+
+			***Source Files
+				Badertscher et al. 2013.pdf
+				Dyreng et al. 2008.pdf
+				Phillips 2003.pdf
+				Rego 2003.pdf
+				Shackelford and Shevlin 2001.pdf
+				Stickney and McGee 1982.pdf
+
+
+	*Inbox
+		3330-MEM_derivations.docx
+
+
+VA
+	VA Bible_Compiled Generalized.doc
+	VA Bible_Compiled Generalized.pdf
+
+
